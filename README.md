@@ -1,6 +1,7 @@
-# ebayRemovePriceRangeListings
+# Instructions
+
 For Firefox:
 
-    Download [Greasemonkey Firefox ADD ON][1]
-    GreaseMonkey > New User Script...
-    Copy/Paste Javascript code
+1.    Download [Greasemonkey Firefox ADD ON][1]
+2.    GreaseMonkey > New User Script...
+3.    Copy/Paste code.js
